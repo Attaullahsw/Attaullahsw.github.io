@@ -9979,7 +9979,7 @@ a.hero-cta-alt:hover {
   height: 200px;
   margin: 0 auto;
   border-radius: 50%;
-  object-fit: cover;
+  /* object-fit: cover; */
 }
 .portrait-title h2 {
   font-size: 1.75em;
